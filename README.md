@@ -2,6 +2,9 @@
 Multiple people name, surname and mail manager.
 
 
+
+
+
 # En Français :
 
 Ce programme permet d'importer, d'exporter et de faire des opérations sur des groupes de personnes représentées par leurs nom, prénom et mail.
